@@ -1,1 +1,1 @@
-# zsh-preferences
+# iterm2-preferences
