@@ -1,0 +1,63 @@
+{
+    "terminal.integrated.fontFamily": "Ubuntu Mono derivative Powerline",
+    "terminal.integrated.fontSize": 14,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.inheritEnv": false,
+    "editor.suggestSelection": "first",
+    "git.enableSmartCommit": true,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "python.languageServer": "Default",
+    "workbench.colorTheme": "GitHub Dark",
+    "debug.openDebug": "openOnDebugBreak",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            200
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+        // For ESLint
+        "source.fixAll.eslint": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.printWidth": 200,
+    "editor.renderControlCharacters": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontWeight": null,
+    "editor.semanticTokenColorCustomizations": null,
+    "docker.commands.composeUp": null,
+    "dart.debugExternalLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "debug.javascript.terminalOptions": {},
+    "files.autoSave": "afterDelay",
+    "omnisharp.useGlobalMono": "always",
+    "html.format.contentUnformatted": "",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
